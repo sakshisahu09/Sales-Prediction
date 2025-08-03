@@ -1,7 +1,4 @@
 # Sales-Prediction
-# Sales Prediction Using Python
-
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=sharing)
 
 ![MasterHead](https://www.leadsquared.com/wp-content/uploads/2021/11/banner-4-3.png)
 
